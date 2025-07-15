@@ -1,3 +1,3 @@
 # DEMO
 uwu
-Avuthor- Batman
+Author- Batman
